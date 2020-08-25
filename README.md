@@ -1,4 +1,4 @@
-#ConFinex 
+#CoFinex 
 
 ##Local Development
 
